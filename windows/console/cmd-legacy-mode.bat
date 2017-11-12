@@ -1,4 +1,5 @@
 @echo off
+::https://superuser.com/questions/954425/how-to-enable-the-new-console-in-windows-10-and-what-are-its-defaults
 
 if '%*'=='' call :help & exit /b
 if '%1'=='on' (
