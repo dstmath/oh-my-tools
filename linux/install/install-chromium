@@ -1,9 +1,4 @@
 #!/bin/bash
 
-sudo add-apt-repository ppa:a-v-shkop/chromium
-
-sudo apt-get update
-
-sudo apt-get install chromium-browser
-
-sudo apt install pepperflashplugin-nonfree
+sudo apt install -y chromium-browser
+sudo apt install -y pepperflashplugin-nonfree

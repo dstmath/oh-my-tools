@@ -2,4 +2,4 @@
 
 #beyondcompare
 aria2c http://www.scootersoftware.com/bcompare-4.1.9.21719_amd64.deb
-dpkg -i bcompare-4.1.9.21719_amd64.deb
+sudo dpkg -i bcompare-4.1.9.21719_amd64.deb
